@@ -12,3 +12,4 @@ List of resources useful for the field of Bioinformatics and Computational Biolo
 ## [Linux](https://github.com/fpolticelli/tbblab_repository/blob/main/linux.md)
 ## [Python](https://github.com/fpolticelli/tbblab_repository/blob/main/python.md)
 ## [Molecular Graphics](https://github.com/fpolticelli/tbblab_repository/blob/main/molecular_graphics.md)
+## [Protein Structure Modelling](https://github.com/fpolticelli/tbblab_repository/blob/main/protein_modelling.md)

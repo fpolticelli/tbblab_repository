@@ -6,3 +6,5 @@ Theoretical Biology and Bioinformatics Laboratory (www.computationalbiology.it)
 - [GitHub quick start](https://guides.github.com/activities/hello-world/)
 - [Writing on GitHub](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github)
 - [Markdown Cheat Sheet](https://commonmark.org/help/)
+
+## [Linux](https://github.com/fpolticelli/tbblab_repository/blob/main/linux.md)

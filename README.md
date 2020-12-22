@@ -2,7 +2,7 @@
 
 # TBBLab Resources and Tutorials
 
-List of resources useful for the field of Bioinformatics and Computational Biology 
+List of useful resources for the field of Bioinformatics and Computational Biology 
 
 ## Getting started
 - [GitHub quick start](https://guides.github.com/activities/hello-world/)

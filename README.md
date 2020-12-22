@@ -8,3 +8,4 @@ Theoretical Biology and Bioinformatics Laboratory (www.computationalbiology.it)
 - [Markdown Cheat Sheet](https://commonmark.org/help/)
 
 ## [Linux](https://github.com/fpolticelli/tbblab_repository/blob/main/linux.md)
+## [Python](https://github.com/fpolticelli/tbblab_repository/blob/main/python.md)

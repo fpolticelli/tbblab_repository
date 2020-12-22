@@ -4,7 +4,7 @@
 
 List of useful resources for the field of Bioinformatics and Computational Biology 
 
-## Getting started
+## Getting started with GitHub
 - [GitHub quick start](https://guides.github.com/activities/hello-world/)
 - [Writing on GitHub](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github)
 - [Markdown Cheat Sheet](https://commonmark.org/help/)

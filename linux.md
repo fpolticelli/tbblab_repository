@@ -7,3 +7,6 @@ Starting with Linux:
 - [Linux Basics](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
 - [Introduction to the Command Line](http://swcarpentry.github.io/shell-novice/)
 - [Introduction to ssh](https://medium.com/better-programming/learn-to-ssh-go-to-guide-9d525eb83f15)
+
+Version control:
+- [Introduction to Git](http://swcarpentry.github.io/git-novice/)

@@ -1,7 +1,7 @@
-# TBBLab Resources and Tutorials
-
 Theoretical Biology and Bioinformatics Laboratory (www.computationalbiology.it)
 ---
+# TBBLab Resources and Tutorials
+
 List of resources useful for the field of Bioinformatics and Computational Biology 
 
 ## Getting started

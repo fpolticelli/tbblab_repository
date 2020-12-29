@@ -1,4 +1,4 @@
-###### [Theoretical Biology and Bioinformatics Laboratory](www.computationalbiology.it)
+###### Theoretical Biology and Bioinformatics Laboratory (www.computationalbiology.it)
 
 # TBBLab Resources and Tutorials
 

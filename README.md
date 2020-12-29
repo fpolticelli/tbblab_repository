@@ -19,7 +19,7 @@ Protein structure prediction is the inference of the three-dimensional structure
 ## [Molecular Docking](https://github.com/fpolticelli/tbblab_repository/blob/main/molecular_docking.md)
 ## [Molecular Dynamics](https://github.com/fpolticelli/tbblab_repository/blob/main/molecular_dynamics.md)
 
-### Getting started with GitHub
+#### Getting started with GitHub
 - [GitHub quick start](https://guides.github.com/activities/hello-world/)
 - [Writing on GitHub](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github)
 - [Markdown Cheat Sheet](https://commonmark.org/help/)

@@ -1,5 +1,5 @@
-## Linux Tutorials
-[What is Linux?](https://en.wikipedia.org/wiki/Linux)
+# Linux Tutorials [(What is Linux?)](https://en.wikipedia.org/wiki/Linux)
+
 
 Starting with Linux (how to install a distribution):
 - [Install Ubuntu alongside Windows](https://help.ubuntu.com/community/WindowsDualBoot) or [as Subsystem](https://medium.com/@CodeBriefly/setup-windows-subsystem-linux-wsl-on-windows-10-a3e50c36b59b)

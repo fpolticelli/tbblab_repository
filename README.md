@@ -19,7 +19,7 @@ List of useful resources for the field of Bioinformatics and Computational Biolo
 ## [Molecular Docking](https://github.com/fpolticelli/tbblab_repository/blob/main/molecular_docking.md)
 - Molecular Docking is a method which predicts the preferred orientation of one molecule to a second when bound to each other to form a stable complex.
 ## [Molecular Dynamics](https://github.com/fpolticelli/tbblab_repository/blob/main/molecular_dynamics.md)
-- Molecular dynamics (MD) is a computer simulation method for analyzing the physical movements of atoms and molecules.
+- Molecular Dynamics (MD) is a computer simulation method for analyzing the physical movements of atoms and molecules.
 
 ---
 #### Getting started with GitHub

@@ -10,5 +10,9 @@ How to use it:
 Remote login from one computer to another:
 - [Introduction to ssh](https://medium.com/better-programming/learn-to-ssh-go-to-guide-9d525eb83f15)
 
+
+### Advanced
+Text Editor [Vim](https://www.vim.org/):
+- [Interactive Tutorial](https://www.openvim.com/)
 Version control:
 - [Introduction to Git](http://swcarpentry.github.io/git-novice/)

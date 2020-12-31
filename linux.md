@@ -12,8 +12,8 @@ Remote login from one computer to another:
 
 
 ### Advanced Tutorials
-Text Editor [Vim](https://www.vim.org/):
-- [Interactive Tutorial](https://www.openvim.com/)
+Text Editor:
+- [Vim](https://www.openvim.com/)
 
 Version control:
 - [Introduction to Git](http://swcarpentry.github.io/git-novice/)

@@ -10,3 +10,4 @@ Video Tutorials:
 - [RasMol](https://www.youtube.com/watch?v=cJd834ns8Ks)
 - [Chimera](https://www.youtube.com/watch?v=hQxKYSUdiD8)
 - [PyMOL](https://www.youtube.com/watch?v=wiKyOF-pGw4)
+- [VMD](http://www.ks.uiuc.edu/Training/video2/vmd/)

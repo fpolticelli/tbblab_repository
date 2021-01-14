@@ -1,19 +1,16 @@
 ## Protein Structure Modelling
 
-### Web Servers
-Homology Modelling:
-- [SWISS-MODEL](https://swissmodel.expasy.org/)
-- [MODELLER](https://toolkit.tuebingen.mpg.de/tools/modeller)
 
-*Ab initio* modelling:
-- [I-TASSER](https://zhanglab.ccmb.med.umich.edu/I-TASSER/)
 
-### Softwares
-Homology Modelling:
-- [MODELLER](https://salilab.org/modeller/)
+| Softwares                                                          | Web Servers                                                |
+|--------------------------------------------------------------------|------------------------------------------------------------|
+|**Homology Modelling**                                                                                                             |
+| [MODELLER](https://salilab.org/modeller/)                          |[MODELLER](https://toolkit.tuebingen.mpg.de/tools/modeller) |
+|                                                                    |[SWISS-MODEL](https://swissmodel.expasy.org/)               |
+|***Ab initio* modelling**                                                                                                            |
+|[I-TASSER](https://zhanglab.ccmb.med.umich.edu/I-TASSER/download/)  | [I-TASSER](https://zhanglab.ccmb.med.umich.edu/I-TASSER/)  |
 
-*Ab initio* modelling:
-- [I-TASSER](https://zhanglab.ccmb.med.umich.edu/I-TASSER/download/)
+
 
 ---
 #### Useful literature

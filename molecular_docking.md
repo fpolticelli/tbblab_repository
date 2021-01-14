@@ -1,12 +1,17 @@
 # Molecular Docking
 
-Software:
-- [AutoDock Vina](http://vina.scripps.edu/)
-- [DockingAppRF](http://www.computationalbiology.it/software.html)
-- [PyMOL AutoDock/Vina plugin](https://www3.mpibpc.mpg.de/groups/de_groot/dseelig/adplugin.html)
+| Software                                                         | Video Tutorials                                              | 
+|------------------------------------------------------------------|--------------------------------------------------------------|
+| [AutoDock Vina](http://vina.scripps.edu/)                        | [AutoDock Vina](https://www.youtube.com/watch?v=-GVZP0X0Tg8) | 
+| [DockingAppRF](http://www.computationalbiology.it/software.html) |                                                              |
 
-Video Tutorials:
-- [AutoDock Vina](https://www.youtube.com/watch?v=-GVZP0X0Tg8)
+
+#### Graphical Interfaces:
+- [PyMOL AutoDock/Vina plugin](https://www3.mpibpc.mpg.de/groups/de_groot/dseelig/adplugin.html)
+- [DockingApp](http://www.computationalbiology.it/software.html)
+
+
+---
 
 ### Interaction analysis
 - [LigPlot](https://www.ebi.ac.uk/thornton-srv/software/LigPlus/)

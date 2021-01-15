@@ -11,6 +11,8 @@
 |[I-TASSER](https://zhanglab.ccmb.med.umich.edu/I-TASSER/download/)  | [I-TASSER](https://zhanglab.ccmb.med.umich.edu/I-TASSER/)  |
 
 
+### Tutorials
+- [From sequence to structure](http://www.bpc.uni-frankfurt.de/guentert/wiki/images/b/b1/180625_Tutorial_Modelling.pdf)
 
 ---
 #### Useful literature

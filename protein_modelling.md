@@ -7,7 +7,7 @@
 |**Homology Modelling**                                                                                                             |
 | [MODELLER](https://salilab.org/modeller/)                          |[MODELLER](https://toolkit.tuebingen.mpg.de/tools/modeller) |
 |                                                                    |[SWISS-MODEL](https://swissmodel.expasy.org/)               |
-|***Ab initio* modelling**                                                                                                            |
+|***Ab initio* Modelling**                                                                                                            |
 |[TrRosetta](https://github.com/gjoni/trRosetta)                     |[TrRosetta](https://robetta.bakerlab.org/)|
 |[C-I-TASSER](https://zhanglab.ccmb.med.umich.edu/C-I-TASSER/download.html) | [C-I-TASSER](https://zhanglab.ccmb.med.umich.edu/C-I-TASSER/)|
 |[I-TASSER](https://zhanglab.ccmb.med.umich.edu/I-TASSER/download/)  | [I-TASSER](https://zhanglab.ccmb.med.umich.edu/I-TASSER/)  |

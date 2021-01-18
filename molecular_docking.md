@@ -5,6 +5,8 @@
 | [AutoDock Vina](http://vina.scripps.edu/)                        | [AutoDock Vina](https://www.youtube.com/watch?v=-GVZP0X0Tg8) | 
 | [DockingAppRF](http://www.computationalbiology.it/software.html) |                                                              |
 
+#### Useful literature
+- Forli, S., Huey, R., Pique, M. et al. Computational protein–ligand docking and virtual drug screening with the AutoDock suite. Nat Protoc 11, 905–919 (2016). https://doi.org/10.1038/nprot.2016.051
 
 ### Graphical Interfaces:
 - [PyMOL AutoDock/Vina plugin](https://www3.mpibpc.mpg.de/groups/de_groot/dseelig/adplugin.html)

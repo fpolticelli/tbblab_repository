@@ -29,6 +29,8 @@ List of useful resources for the Bioinformatics and Computational Biology field
 ## [Machine Learning](https://github.com/fpolticelli/tbblab_repository/blob/main/machine_learning.md)
 - Machine learning (ML) algorithms build a model based on sample data, known as "training data", in order to make predictions.
 
+## [Protein-Protein Interaction](https://github.com/fpolticelli/tbblab_repository/blob/main/proteins_interactions.md)
+- Protein–protein interaction (PPI) predictions are methods used to predict the outcome of pairs or groups of protein interactions. 
 ---
 >## Training Platforms
 >General (Bio)Informatics:

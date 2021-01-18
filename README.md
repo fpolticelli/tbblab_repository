@@ -27,6 +27,7 @@ List of useful resources for the Bioinformatics and Computational Biology field
 - Molecular Dynamics (MD) is a computer simulation method for analysing the physical movements of atoms and molecules.
 
 ## [Training Platforms](https://github.com/fpolticelli/tbblab_repository/blob/main/training.md)
+- List of training platforms regarding computational biology and computational chemistry
 
 ---
 #### Getting started with GitHub

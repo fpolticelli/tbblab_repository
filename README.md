@@ -30,9 +30,23 @@ List of useful resources for the Bioinformatics and Computational Biology field
 - Machine learning (ML) algorithms build a model based on sample data, known as "training data", in order to make predictions.
 
 ---
-## [Training Platforms](https://github.com/fpolticelli/tbblab_repository/blob/main/training.md)
-- List of training platforms regarding computational biology and computational chemistry
-
+>## Training Platforms
+>General (Bio)Informatics:
+>- [ELIXIR's Training Portal](https://tess.elixir-europe.org/)
+>- [The Carpentries](https://carpentries.org/)
+>- [CINECA](https://eventi.cineca.it/en/hpc)
+>- [PRACE](https://training.prace-ri.eu/)
+>
+>Biomolecular Simulations:
+>- [BioExcel](https://bioexcel.eu/)
+>- [CPPBioSim](https://www.ccpbiosim.ac.uk/training-loggedin)
+>- [CECAM](https://www.cecam.org/)
+>
+>Various:
+>- [Coursera](https://www.coursera.org/)
+>- [edX](https://www.edx.org/)
+>- [MIT OpenCourseWare](https://ocw.mit.edu/index.htm)
+>- [Stanford](https://online.stanford.edu/free-courses)
 ---
 #### Getting started with GitHub
 - [GitHub quick start](https://guides.github.com/activities/hello-world/)

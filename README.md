@@ -29,6 +29,7 @@ List of useful resources for the Bioinformatics and Computational Biology field
 ## [Machine Learning](https://github.com/fpolticelli/tbblab_repository/blob/main/machine_learning.md)
 - Machine learning (ML) algorithms build a model based on sample data, known as "training data", in order to make predictions.
 
+---
 ## [Training Platforms](https://github.com/fpolticelli/tbblab_repository/blob/main/training.md)
 - List of training platforms regarding computational biology and computational chemistry
 

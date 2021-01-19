@@ -38,8 +38,10 @@ List of useful resources for the Bioinformatics and Computational Biology field
 |-----------------------------------------------------------|-----------------------------------------------------------|----------------------------------------------------------|
 |[ELIXIR's Training Portal](https://tess.elixir-europe.org/)|[BioExcel](https://bioexcel.eu/)                           | [Coursera](https://www.coursera.org/)                     |
 |[The Carpentries](https://carpentries.org/)                | [CPPBioSim](https://www.ccpbiosim.ac.uk/training-loggedin)| [edX](https://www.edx.org/)                               |
-|[CINECA](https://eventi.cineca.it/en/hpc)                  | [CECAM](https://www.cecam.org/)                           | [MIT OpenCourseWare](https://ocw.mit.edu/index.htm)       |
-|[PRACE](https://training.prace-ri.eu/)                     |                                                           | [Stanford](https://online.stanford.edu/free-courses)      |
+|[SIB](https://www.sib.swiss/training/e-learning)           | [CECAM](https://www.cecam.org/)                           | [MIT OpenCourseWare](https://ocw.mit.edu/index.htm)       |
+|[GOBLET](https://www.mygoblet.org/)                        | [CINECA](https://eventi.cineca.it/en/hpc)                 | [Stanford](https://online.stanford.edu/free-courses)      |
+|[EMBnet](https://www.embnet.org/wp/)                       |    [PRACE](https://training.prace-ri.eu/)                 |                                                           |
+|                                                           |                                                            |                                                          |
 
 ---
 

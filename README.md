@@ -32,7 +32,8 @@ List of useful resources for the Bioinformatics and Computational Biology field
 ## [Protein-Protein Interaction](https://github.com/fpolticelli/tbblab_repository/blob/main/proteins_interactions.md)
 - Protein–protein interaction (PPI) predictions are methods used to predict the outcome of pairs or groups of protein interactions. 
 ---
->## Training Platforms
+## Training Platforms
+---
 >General (Bio)Informatics:
 >- [ELIXIR's Training Portal](https://tess.elixir-europe.org/)
 >- [The Carpentries](https://carpentries.org/)

@@ -41,7 +41,6 @@ List of useful resources for the Bioinformatics and Computational Biology field
 |[SIB](https://www.sib.swiss/training/e-learning)           | [CECAM](https://www.cecam.org/)                           | [MIT OpenCourseWare](https://ocw.mit.edu/index.htm)       |
 |[GOBLET](https://www.mygoblet.org/)                        | [CINECA](https://eventi.cineca.it/en/hpc)                 | [Stanford](https://online.stanford.edu/free-courses)      |
 |[EMBnet](https://www.embnet.org/wp/)                       |    [PRACE](https://training.prace-ri.eu/)                 |                                                           |
-|                                                           |                                                            |                                                          |
 
 ---
 

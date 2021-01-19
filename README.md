@@ -32,24 +32,23 @@ List of useful resources for the Bioinformatics and Computational Biology field
 ## [Protein-Protein Interaction](https://github.com/fpolticelli/tbblab_repository/blob/main/proteins_interactions.md)
 - Protein–protein interaction (PPI) predictions are methods used to predict the outcome of pairs or groups of protein interactions. 
 ---
-## Training Platforms
----
->General (Bio)Informatics:
->- [ELIXIR's Training Portal](https://tess.elixir-europe.org/)
->- [The Carpentries](https://carpentries.org/)
->- [CINECA](https://eventi.cineca.it/en/hpc)
->- [PRACE](https://training.prace-ri.eu/)
->
->Biomolecular Simulations:
->- [BioExcel](https://bioexcel.eu/)
->- [CPPBioSim](https://www.ccpbiosim.ac.uk/training-loggedin)
->- [CECAM](https://www.cecam.org/)
->
->Various:
->- [Coursera](https://www.coursera.org/)
->- [edX](https://www.edx.org/)
->- [MIT OpenCourseWare](https://ocw.mit.edu/index.htm)
->- [Stanford](https://online.stanford.edu/free-courses)
+| Training Platforms                                        |
+|-----------------------------------------------------------|
+|*General Bioinformatics*                                 |
+|[ELIXIR's Training Portal](https://tess.elixir-europe.org/)|
+|[The Carpentries](https://carpentries.org/)                |
+|[CINECA](https://eventi.cineca.it/en/hpc)                  |
+|[PRACE](https://training.prace-ri.eu/)                     |
+|*Biomolecular Simulations*                               |
+|[BioExcel](https://bioexcel.eu/)                           |
+| [CPPBioSim](https://www.ccpbiosim.ac.uk/training-loggedin)|
+| [CECAM](https://www.cecam.org/)                           |
+| *Various*                                               |
+| [Coursera](https://www.coursera.org/)                     |
+| [edX](https://www.edx.org/)                               |
+| [MIT OpenCourseWare](https://ocw.mit.edu/index.htm)       |
+| [Stanford](https://online.stanford.edu/free-courses)      |
+
 ---
 #### Getting started with GitHub
 - [GitHub quick start](https://guides.github.com/activities/hello-world/)

@@ -11,6 +11,8 @@ List of useful resources for the Bioinformatics and Computational Biology field
 ## [Python](https://github.com/fpolticelli/tbblab_repository/blob/main/python.md)
 - Python is an interpreted, high-level and general-purpose programming language, frequently used for scientific applications. It is widely used in academia and scientific projects because it is easy to write and performs well.
 
+## [Sequence analysis]()
+
 ## [Molecular Graphics](https://github.com/fpolticelli/tbblab_repository/blob/main/molecular_graphics.md)
 - Molecular Graphics programs are used to visualize biomolecules models.
 

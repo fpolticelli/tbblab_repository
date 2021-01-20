@@ -12,6 +12,7 @@ List of useful resources for the Bioinformatics and Computational Biology field
 - Python is an interpreted, high-level and general-purpose programming language, frequently used for scientific applications. It is widely used in academia and scientific projects because it is easy to write and performs well.
 
 ## [Sequence analysis]()
+-  Process of subjecting a DNA, RNA or peptide sequence to any of a wide range of analytical methods to understand its features, function, structure, or evolution. 
 
 ## [Molecular Graphics](https://github.com/fpolticelli/tbblab_repository/blob/main/molecular_graphics.md)
 - Molecular Graphics programs are used to visualize biomolecules models.
@@ -41,8 +42,9 @@ List of useful resources for the Bioinformatics and Computational Biology field
 |[ELIXIR's Training Portal](https://tess.elixir-europe.org/)|[BioExcel](https://bioexcel.eu/)                           | [Coursera](https://www.coursera.org/)                     |
 |[The Carpentries](https://carpentries.org/)                | [CPPBioSim](https://www.ccpbiosim.ac.uk/training-loggedin)| [edX](https://www.edx.org/)                               |
 |[SIB](https://www.sib.swiss/training/e-learning)           | [CECAM](https://www.cecam.org/)                           | [MIT OpenCourseWare](https://ocw.mit.edu/index.htm)       |
-|[GOBLET](https://www.mygoblet.org/)                        | [CINECA](https://eventi.cineca.it/en/hpc)                 | [Stanford](https://online.stanford.edu/free-courses)      |
+|  [EMBL-EBI](https://www.ebi.ac.uk/training/online/)       | [CINECA](https://eventi.cineca.it/en/hpc)                 | [Stanford](https://online.stanford.edu/free-courses)      |
 |[EMBnet](https://www.embnet.org/wp/)                       |    [PRACE](https://training.prace-ri.eu/)                 |                                                           |
+| [GOBLET](https://www.mygoblet.org/)                       |                                                           |                                                           |
 
 ---
 

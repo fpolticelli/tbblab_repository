@@ -46,6 +46,11 @@ List of useful resources for the Bioinformatics and Computational Biology field
 |[EMBnet](https://www.embnet.org/wp/)                       |    [PRACE](https://training.prace-ri.eu/)                 |                                                           |
 | [GOBLET](https://www.mygoblet.org/)                       |                                                           |                                                           |
 
+Other resources lists:
+- [Chan Zuckerberg Biohub](https://github.com/czbiohub/learn-bioinformatics)
+- [Patrick Walters](https://github.com/PatWalters/resources/blob/main/cheminformatics_resources.md)
+- [Volkamer Lab](https://projects.volkamerlab.org/teachopencadd/all_talktorials.html)
+
 ---
 
 #### Getting started with GitHub

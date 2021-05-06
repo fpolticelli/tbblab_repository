@@ -50,6 +50,9 @@ Other resources lists:
 - [Chan Zuckerberg Biohub](https://github.com/czbiohub/learn-bioinformatics)
 - [Patrick Walters](https://github.com/PatWalters/resources/blob/main/cheminformatics_resources.md)
 - [Volkamer Lab](https://projects.volkamerlab.org/teachopencadd/all_talktorials.html)
+- [LiveCoMS Best Practices](https://www.livecomsjournal.org/section/944)
+- [LiveCoMS Tutorials and Training](https://www.livecomsjournal.org/section/943-tutorials-and-training-articles)
+- [LiveCoMS Lessons Learned](https://www.livecomsjournal.org/section/997-lessons-learned)
 
 ---
 

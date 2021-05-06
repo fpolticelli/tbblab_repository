@@ -7,6 +7,8 @@
 | [NAMD](https://www.ks.uiuc.edu/Research/namd/)         | [NAMD](http://www.ks.uiuc.edu/Training/Tutorials/namd-index.html) |
 | [OPENMM](http://openmm.org/)                           | [OPENMM](http://openmm.org/tutorials/index.html)                  |
 
+**Best Practices for Foundations in Molecular Simulations** https://www.livecomsjournal.org/article/5957-best-practices-for-foundations-in-molecular-simulations-article-v1-0
+
 ## Additional Softwares
 - [PLUMED](https://www.plumed.org/)
 - [CPPTRAJ](https://github.com/Amber-MD/cpptraj) (already part of AmberTools)

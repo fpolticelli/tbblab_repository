@@ -16,6 +16,9 @@
 ### Tutorials
 - [From sequence to structure](http://www.bpc.uni-frankfurt.de/guentert/wiki/images/b/b1/180625_Tutorial_Modelling.pdf)
 
+### Courses
+- [SARS-CoV-2 Protein Modeling](https://www.coursera.org/projects/sars-cov-2-protein-modeling-and-drug-docking)
+
 ---
 #### Useful literature
 - Haddad Y, Adam V, Heger Z (2020) Ten quick tips for homology modeling of high-resolution protein 3D structures. PLoS Comput Biol 16(4): e1007449. https://doi.org/10.1371/journal.pcbi.1007449

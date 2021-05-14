@@ -18,6 +18,7 @@
 
 ### Courses:
 - [Protein Classification](https://www.ebi.ac.uk/training/online/courses/protein-classification-intro-ebi-resources/)
+- [Bioinformatics methods](https://www.coursera.org/learn/bioinformatics-methods-1#syllabus)
 
 ### Literature:
 - [Principles and Methods of Sequence Analysis](https://www.ncbi.nlm.nih.gov/books/NBK20261/)
